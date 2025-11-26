@@ -1,0 +1,4 @@
+[
+    { "id": "q1", "text": "Eat only pizza or only burgers for life?", "tags": ["food"], "nsfw": false },
+    { "id": "q2", "text": "Have the ability to fly or become invisible?", "tags": ["superpower"], "nsfw": false }
+]
